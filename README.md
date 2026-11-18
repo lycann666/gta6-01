@@ -1,5 +1,9 @@
 # Neon Harbor — Open-World Crime Game
 
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/lycann666/gta6-01/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/lycann666/gta6-01/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+
 An original open-world crime game set in the invented port city of **Teluk Neon**.
 You play Rian "Rex" Marlowe, a courier who takes jobs from fixer Mira Solano to
 pay off a debt — while the city police try to stop you. Every name, place,
@@ -63,3 +67,5 @@ Then open <http://localhost:8080> in a desktop browser.
 `?shot=start|play|chase|mission&seed=1` stages a real simulated scene
 (title over the living city / driving with traffic / 3-star police chase /
 mission 2 with the blue sedan) and sets `window.__shotReady` when painted.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=5f3j6jyb&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
